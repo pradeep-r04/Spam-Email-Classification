@@ -1,7 +1,7 @@
 pandas
 streamlit
 numpy
-skicit-learn
+scikit-learn
 CountVectorizer
 train_test_split
 MultinomialNB

@@ -1,7 +1,6 @@
 pandas
 streamlit
 numpy
-pickle
 skicit-learn
 CountVectorizer
 train_test_split

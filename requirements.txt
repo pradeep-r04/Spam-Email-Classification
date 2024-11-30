@@ -1,0 +1,9 @@
+pandas
+streamlit
+numpy
+pickle
+sklearn
+CountVectorizer
+train_test_split
+MultinomialNB
+LabelEncoder
